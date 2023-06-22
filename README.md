@@ -1,5 +1,3 @@
-<p align="center"><a href="https://JadsonTSI.github.io"><img width="80%" alt="Hello, I'm JADSON. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
 ### Olá, eu sou Jadson Leitão
 
 - Atualmente estudo Sistemas para internet
